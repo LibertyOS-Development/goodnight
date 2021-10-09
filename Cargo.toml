@@ -1,6 +1,6 @@
 [package]
 name = "goodnight"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2018"
 authors = ["Daniel P. Teberian"]
 description = "A simple crate for executing code upon exit."
