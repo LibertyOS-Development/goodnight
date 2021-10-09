@@ -1,0 +1,9 @@
+[package]
+name = "goodnight"
+version = "0.1.0"
+edition = "2018"
+authors = ["Daniel P. Teberian"]
+description = "A simple crate for executing code upon exit."
+license = "Apache-2.0"
+repository = "https://github.com/LibertyOS-Development/goodnight"
+categories = ["no-std"]
